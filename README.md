@@ -1,2 +1,9 @@
-# Mathematics
-## Postgraduate mathematics II Notes
+# Postgraduate Mathematics II Notes
+
+## 一、线性代数
+
+### 1. 行列式
+
+#### 1.1 [行列式理论](线性代数/行列式/行列式理论.md)
+
+#### 1.1 [行列式考法](线性代数/行列式/行列式考法.md)
